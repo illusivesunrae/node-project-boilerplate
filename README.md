@@ -1,2 +1,2 @@
-# npm-project-boilerplate
-Simple boilerplate for new npm projects
+# node-project-boilerplate
+Simple boilerplate for new node-based projects

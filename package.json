@@ -1,0 +1,20 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a template repo for creating node-based projects",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illusivesunrae/node-project-boilerplate.git"
+  },
+  "author": "Rachel O'Connor",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/illusivesunrae/node-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/illusivesunrae/node-project-boilerplate#readme"
+}
