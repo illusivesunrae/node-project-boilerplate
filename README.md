@@ -23,4 +23,4 @@ cd node-project-boilerplate
 
 ## Next steps
 
-Now that you have a copy of this repository, you will likely want to add build tools. You can find instructions on using three of the most common build tools — webpack, Gulp, and Grunt — in our wiki.
+Now that you have a copy of this repository, you will likely want to add build tools. You can find instructions on using three of the most common build tools — [Grunt](https://github.com/illusivesunrae/node-project-boilerplate/wiki/Grunt-Tutorial), [Gulp](https://github.com/illusivesunrae/node-project-boilerplate/wiki/Gulp-Tutorial), and [webpack](https://github.com/illusivesunrae/node-project-boilerplate/wiki/webpack-Tutorial) — in our [wiki](https://github.com/illusivesunrae/node-project-boilerplate/wiki).
